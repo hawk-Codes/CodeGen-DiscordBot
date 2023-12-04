@@ -8,7 +8,7 @@ intents.presences = False
 intents.message_content = True
 
 bot_token = "******************************"
-github_access_token = "****************************8"
+github_access_token = "****************************"
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
