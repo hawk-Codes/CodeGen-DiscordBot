@@ -7,8 +7,8 @@ intents.typing = False
 intents.presences = False
 intents.message_content = True
 
-bot_token = "MTE4MDg2MDIyMDI5ODI0ODIxMg.GpnSdF.zirnTaxlFpogRkyS2QqLoWBjjWBxJphUYAmlZ4"
-github_access_token = "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"
+bot_token = "******************************"
+github_access_token = "****************************8"
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
